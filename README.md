@@ -8,7 +8,6 @@ This project analyzes **Amazon Fine Food Reviews** to uncover insights about cus
 
 It focuses on understanding how customers feel about products and which items receive the most positive feedback.
 
----
 
 ## 🧠 Objectives
 - Analyze customer sentiment (Positive / Negative / Neutral)
@@ -17,7 +16,7 @@ It focuses on understanding how customers feel about products and which items re
 - Extract and showcase real customer feedback examples
 - Present findings in an interactive Power BI dashboard
 
----
+
 
 ## 🗂 Dataset Information
 - **Source:** [Kaggle – Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
@@ -31,7 +30,7 @@ It focuses on understanding how customers feel about products and which items re
   - `Time` (Unix timestamp)
   - `Positive/Negative/Neutral` (derived sentiment labels)
 
----
+
 
 ## ⚙️ Process Summary
 1. **Data Preprocessing (Python)**
@@ -51,7 +50,7 @@ It focuses on understanding how customers feel about products and which items re
    - Theme color: soft pastel (pink & yellow)
    - Layout: left for summary KPIs, middle for charts, right for text insights
 
----
+
 
 ## 📊 Dashboard Highlights
 -  Trend Over Time: Sentiment score progression yearly  
@@ -60,7 +59,7 @@ It focuses on understanding how customers feel about products and which items re
 -  Feedback Samples: Real customer quotes representing sentiment spectrum  
 -  Goal Tracker: Approaching 80% satisfaction milestone  
 
----
+
 
 ## 🧰 Tools Used
 | Tool | Purpose |
@@ -71,7 +70,7 @@ It focuses on understanding how customers feel about products and which items re
 | TextBlob / VADER | Sentiment scoring |
 | Matplotlib | Optional chart testing |
 
----
+
 
 ## 👩‍💻 Author
 **Phạm Diễm Quỳnh**  
@@ -79,10 +78,12 @@ It focuses on understanding how customers feel about products and which items re
 💡 *Sentiment Analysis | Power BI | Data Visualization*  
 🗓 2025
 
----
+
 
 ## 📎 Preview
 🔗 Power BI Dashboard: *https://app.powerbi.com/links/uaOcFFzAbV?ctid=b1a9fdc0-1d56-4c3d-a481-809fff8a26db&pbi_source=linkShare*
+
 📁 Dữ liệu đã qua xử lý: *https://drive.google.com/file/d/145jderUkfzKmo97v3EHydbzGxHH9gdX3/view?usp=sharing*
+
 🐍 Source code (Python): *https://colab.research.google.com/drive/1dFzLdC8nZOnyIpNfaNoahgUU9STa9BT0?usp=sharing*
 
