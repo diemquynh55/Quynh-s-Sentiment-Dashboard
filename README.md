@@ -82,4 +82,7 @@ It focuses on understanding how customers feel about products and which items re
 ---
 
 ## 📎 Preview
-![Dashboard Preview](images/dashboard_preview.png)
+🔗 Power BI Dashboard: *https://app.powerbi.com/links/uaOcFFzAbV?ctid=b1a9fdc0-1d56-4c3d-a481-809fff8a26db&pbi_source=linkShare*
+📁 Dữ liệu đã qua xử lý: 
+🐍 Source code (Python): *https://colab.research.google.com/drive/1dFzLdC8nZOnyIpNfaNoahgUU9STa9BT0?usp=sharing*
+
