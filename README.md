@@ -3,14 +3,14 @@ Amazon Fine Food Reviews Sentiment Dashboard
 
 # 🍽 Amazon Fine Food Reviews Sentiment Dashboard
 
-## Project Overview
+## 📋 Project Overview
 This project analyzes **Amazon Fine Food Reviews** to uncover insights about customer sentiment using **text analytics and data visualization** in Power BI.
 
 It focuses on understanding how customers feel about products and which items receive the most positive feedback.
 
 ---
 
-## Objectives
+## 🧠 Objectives
 - Analyze customer sentiment (Positive / Negative / Neutral)
 - Identify top-performing products by sentiment score
 - Visualize review trends over time
@@ -19,7 +19,7 @@ It focuses on understanding how customers feel about products and which items re
 
 ---
 
-##  Dataset Information
+## 🗂 Dataset Information
 - **Source:** [Kaggle – Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 - **Size:** ~500,000 reviews
 - **Key columns used:**
@@ -33,7 +33,7 @@ It focuses on understanding how customers feel about products and which items re
 
 ---
 
-## Process Summary
+## ⚙️ Process Summary
 1. **Data Preprocessing (Python)**
    - Clean text (remove stopwords, punctuation)
    - Perform sentiment analysis using `TextBlob` or `VADER`
@@ -62,7 +62,7 @@ It focuses on understanding how customers feel about products and which items re
 
 ---
 
-## Tools Used
+## 🧰 Tools Used
 | Tool | Purpose |
 |------|----------|
 | Python | Sentiment analysis, preprocessing |
