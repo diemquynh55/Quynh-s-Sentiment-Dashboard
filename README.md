@@ -3,14 +3,14 @@ Amazon Fine Food Reviews Sentiment Dashboard
 
 # 🍽 Amazon Fine Food Reviews Sentiment Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **Amazon Fine Food Reviews** to uncover insights about customer sentiment using **text analytics and data visualization** in Power BI.
 
 It focuses on understanding how customers feel about products and which items receive the most positive feedback.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 - Analyze customer sentiment (Positive / Negative / Neutral)
 - Identify top-performing products by sentiment score
 - Visualize review trends over time
@@ -33,7 +33,7 @@ It focuses on understanding how customers feel about products and which items re
 
 ---
 
-## ⚙️ Process Summary
+## Process Summary
 1. **Data Preprocessing (Python)**
    - Clean text (remove stopwords, punctuation)
    - Perform sentiment analysis using `TextBlob` or `VADER`
@@ -54,15 +54,15 @@ It focuses on understanding how customers feel about products and which items re
 ---
 
 ## 📊 Dashboard Highlights
-- **📈 Trend Over Time:** Sentiment score progression yearly  
-- **💖 Top 10 Products:** Ranked by positive sentiment share  
-- **☁ Word Cloud:** Frequent keywords in positive reviews  
-- **💬 Feedback Samples:** Real customer quotes representing sentiment spectrum  
-- **🎯 Goal Tracker:** Approaching 80% satisfaction milestone  
+- ** Trend Over Time:** Sentiment score progression yearly  
+- ** Top 10 Products:** Ranked by positive sentiment share  
+- ** Word Cloud:** Frequent keywords in positive reviews  
+- ** Feedback Samples:** Real customer quotes representing sentiment spectrum  
+- ** Goal Tracker:** Approaching 80% satisfaction milestone  
 
 ---
 
-## 🧩 Tools Used
+## Tools Used
 | Tool | Purpose |
 |------|----------|
 | Python | Sentiment analysis, preprocessing |
@@ -74,8 +74,8 @@ It focuses on understanding how customers feel about products and which items re
 ---
 
 ## 👩‍💻 Author
-**Nguyễn Quỳnh**  
-📧 *[Your email if needed]*  
+**Phạm Diễm Quỳnh**  
+📧 *diemquynhnet65@gmail.com*  
 💡 *Sentiment Analysis | Power BI | Data Visualization*  
 🗓 2025
 
