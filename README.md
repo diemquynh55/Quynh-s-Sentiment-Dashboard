@@ -19,7 +19,7 @@ It focuses on understanding how customers feel about products and which items re
 
 ---
 
-## 🗂 Dataset Information
+##  Dataset Information
 - **Source:** [Kaggle – Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 - **Size:** ~500,000 reviews
 - **Key columns used:**
@@ -54,11 +54,11 @@ It focuses on understanding how customers feel about products and which items re
 ---
 
 ## 📊 Dashboard Highlights
-- ** Trend Over Time:** Sentiment score progression yearly  
-- ** Top 10 Products:** Ranked by positive sentiment share  
-- ** Word Cloud:** Frequent keywords in positive reviews  
-- ** Feedback Samples:** Real customer quotes representing sentiment spectrum  
-- ** Goal Tracker:** Approaching 80% satisfaction milestone  
+-  Trend Over Time: Sentiment score progression yearly  
+-  Top 10 Products: Ranked by positive sentiment share  
+-  Word Cloud: Frequent keywords in positive reviews  
+-  Feedback Samples: Real customer quotes representing sentiment spectrum  
+-  Goal Tracker: Approaching 80% satisfaction milestone  
 
 ---
 
@@ -83,6 +83,6 @@ It focuses on understanding how customers feel about products and which items re
 
 ## 📎 Preview
 🔗 Power BI Dashboard: *https://app.powerbi.com/links/uaOcFFzAbV?ctid=b1a9fdc0-1d56-4c3d-a481-809fff8a26db&pbi_source=linkShare*
-📁 Dữ liệu đã qua xử lý: 
+📁 Dữ liệu đã qua xử lý: *https://drive.google.com/file/d/145jderUkfzKmo97v3EHydbzGxHH9gdX3/view?usp=sharing*
 🐍 Source code (Python): *https://colab.research.google.com/drive/1dFzLdC8nZOnyIpNfaNoahgUU9STa9BT0?usp=sharing*
 
